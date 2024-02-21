@@ -1,3 +1,2 @@
 EDA-Preprocessing-ML-Ensemble Model-Tuning
-Korea Centers for Disease Control & Prevention dataset 
-Comparing different ML algorithms's prediction performance before and after tuning
+Comparing the prediction performance of different algorithms before and after tuning using the Korea Centers for Disease Control and Prevention dataset
